@@ -1,6 +1,6 @@
 *.DS_Store
 dataset/glove*
-
+Dataset/gemini*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
